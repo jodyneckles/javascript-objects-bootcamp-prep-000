@@ -1,7 +1,6 @@
 var playlist = {
   Beatles: 'Yesterday',
-  ['Freddy Mercury']: ['Notorious BIG'],
-  ["Slowdive"] = 'Alison'
+  ['Freddy Mercury']: ['Notorious BIG']
 };
 
 function updatePlaylist(playlist, artistName, songTitle) {
