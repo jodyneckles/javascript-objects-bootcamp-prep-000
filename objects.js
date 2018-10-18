@@ -1,6 +1,6 @@
 var playlist = {
   Beatles: 'Yesterday',
-  ['Freddy Mercury']: ['Notorious BIG']
+  ['Freddy Mercury']: ['Notorious BIG'],
   ['Slowdive']: 'Alison'
 };
 
